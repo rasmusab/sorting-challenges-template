@@ -1,0 +1,258 @@
+country_name,iso3c,population
+Afghanistan,AFG,42239854
+Africa Eastern and Southern,AFE,739108306
+Africa Western and Central,AFW,502789511
+Albania,ALB,2745972
+Algeria,DZA,45606480
+American Samoa,ASM,43914
+Andorra,AND,80088
+Angola,AGO,36684202
+Antigua and Barbuda,ATG,94298
+Arab World,ARB,473272080
+Argentina,ARG,46654581
+Armenia,ARM,2777970
+Aruba,ABW,106277
+Australia,AUS,26638544
+Austria,AUT,9132383
+Azerbaijan,AZE,10112555
+"Bahamas, The",BHS,412623
+Bahrain,BHR,1485509
+Bangladesh,BGD,172954319
+Barbados,BRB,281995
+Belarus,BLR,9178298
+Belgium,BEL,11822592
+Belize,BLZ,410825
+Benin,BEN,13712828
+Bermuda,BMU,63489
+Bhutan,BTN,787424
+Bolivia,BOL,12388571
+Bosnia and Herzegovina,BIH,3210847
+Botswana,BWA,2675352
+Brazil,BRA,216422446
+British Virgin Islands,VGB,31538
+Brunei Darussalam,BRN,452524
+Bulgaria,BGR,6430370
+Burkina Faso,BFA,23251485
+Burundi,BDI,13238559
+Cabo Verde,CPV,598682
+Cambodia,KHM,16944826
+Cameroon,CMR,28647293
+Canada,CAN,40097761
+Caribbean small states,CSS,3167738
+Cayman Islands,CYM,69310
+Central African Republic,CAF,5742315
+Central Europe and the Baltics,CEB,100156608
+Chad,TCD,18278568
+Channel Islands,CHI,175346
+Chile,CHL,19629590
+China,CHN,1410710000
+Colombia,COL,52085168
+Comoros,COM,852075
+"Congo, Dem. Rep.",COD,102262808
+"Congo, Rep.",COG,6106869
+Costa Rica,CRI,5212173
+Cote d'Ivoire,CIV,28873034
+Croatia,HRV,3853200
+Cuba,CUB,11194449
+Curacao,CUW,147862
+Cyprus,CYP,1260138
+Denmark,DNK,5946952
+Djibouti,DJI,1136455
+Dominica,DMA,73040
+Dominican Republic,DOM,11332972
+Early-demographic dividend,EAR,3486290439
+East Asia & Pacific,EAS,2380601170
+East Asia & Pacific (IDA & IBRD countries),TEA,2107522258
+East Asia & Pacific (excluding high income),EAP,2133652241
+Ecuador,ECU,18190484
+"Egypt, Arab Rep.",EGY,112716598
+El Salvador,SLV,6364943
+Equatorial Guinea,GNQ,1714671
+Eritrea,ERI,3748901
+Estonia,EST,1366188
+Eswatini,SWZ,1210822
+Ethiopia,ETH,126527060
+Euro area,EMU,350357398
+Europe & Central Asia,ECS,923929755
+Europe & Central Asia (IDA & IBRD countries),TEC,457326090
+Europe & Central Asia (excluding high income),ECA,247474425
+European Union,EUU,449476878
+Faroe Islands,FRO,53270
+Fiji,FJI,936375
+Finland,FIN,5584264
+Fragile and conflict affected situations,FCS,1042703808
+France,FRA,68170228
+French Polynesia,PYF,308872
+Gabon,GAB,2436566
+"Gambia, The",GMB,2773168
+Georgia,GEO,3760365
+Germany,DEU,84482267
+Ghana,GHA,34121985
+Gibraltar,GIB,32688
+Greece,GRC,10361295
+Greenland,GRL,56865
+Grenada,GRD,126183
+Guam,GUM,172952
+Guatemala,GTM,17602431
+Guinea,GIN,14190612
+Guinea-Bissau,GNB,2150842
+Guyana,GUY,813834
+Haiti,HTI,11724763
+Heavily indebted poor countries (HIPC),HPC,907995430
+Honduras,HND,10593798
+"Hong Kong SAR, China",HKG,7536100
+Hungary,HUN,9589872
+IBRD only,IBD,4937047867
+IDA & IBRD total,IBT,6819750360
+IDA blend,IDB,622553200
+IDA only,IDX,1260149293
+IDA total,IDA,1882702493
+Iceland,ISL,393600
+India,IND,1428627663
+Indonesia,IDN,277534122
+"Iran, Islamic Rep.",IRN,89172767
+Iraq,IRQ,45504560
+Ireland,IRL,5262382
+Isle of Man,IMN,84710
+Israel,ISR,9756700
+Italy,ITA,58761146
+Jamaica,JAM,2825544
+Japan,JPN,124516650
+Jordan,JOR,11337052
+Kazakhstan,KAZ,19900177
+Kenya,KEN,55100586
+Kiribati,KIR,133515
+"Korea, Dem. People's Rep.",PRK,26160821
+"Korea, Rep.",KOR,51712619
+Kosovo,XKX,1756374
+Kuwait,KWT,4310108
+Kyrgyz Republic,KGZ,7100800
+Lao PDR,LAO,7633779
+Late-demographic dividend,LTE,2326833223
+Latin America & Caribbean (excluding high income),LAC,600825676
+Latin America & the Caribbean (IDA & IBRD countries),TLA,648763330
+Latvia,LVA,1881750
+Least developed countries: UN classification,LDC,1150346774
+Lebanon,LBN,5353930
+Lesotho,LSO,2330318
+Liberia,LBR,5418377
+Libya,LBY,6888388
+Liechtenstein,LIE,39584
+Lithuania,LTU,2871897
+Low & middle income,LMY,6593137026
+Luxembourg,LUX,668606
+"Macao SAR, China",MAC,704149
+Madagascar,MDG,30325732
+Malawi,MWI,20931751
+Malaysia,MYS,34308525
+Maldives,MDV,521021
+Mali,MLI,23293698
+Malta,MLT,553214
+Marshall Islands,MHL,41996
+Mauritania,MRT,4862989
+Mauritius,MUS,1261041
+Mexico,MEX,128455567
+"Micronesia, Fed. Sts.",FSM,115224
+Middle East & North Africa,MEA,500787313
+Middle East & North Africa (IDA & IBRD countries),TMN,425691336
+Middle East & North Africa (excluding high income),MNA,430857111
+Middle income,MIC,5870152963
+Moldova,MDA,2486891
+Monaco,MCO,36297
+Mongolia,MNG,3447157
+Montenegro,MNE,616177
+Morocco,MAR,37840044
+Mozambique,MOZ,33897354
+Myanmar,MMR,54577997
+Namibia,NAM,2604172
+Nauru,NRU,12780
+Nepal,NPL,30896590
+Netherlands,NLD,17879488
+New Caledonia,NCL,267940
+New Zealand,NZL,5223100
+Nicaragua,NIC,7046310
+Niger,NER,27202843
+Nigeria,NGA,223804632
+North America,NAC,375076145
+North Macedonia,MKD,1811980
+Northern Mariana Islands,MNP,49796
+Norway,NOR,5519594
+OECD members,OED,1385005653
+Oman,OMN,4644384
+Other small states,OSS,14240737
+Pacific island small states,PSS,2677728
+Pakistan,PAK,240485658
+Palau,PLW,18058
+Panama,PAN,4468087
+Papua New Guinea,PNG,10329931
+Paraguay,PRY,6861524
+Peru,PER,34352719
+Philippines,PHL,117337368
+Poland,POL,36685849
+Portugal,PRT,10525347
+Post-demographic dividend,PST,1119478514
+Pre-demographic dividend,PRE,1065710613
+Puerto Rico,PRI,3205691
+Qatar,QAT,2716391
+Romania,ROU,19056116
+Russian Federation,RUS,143826130
+Rwanda,RWA,14094683
+Samoa,WSM,225681
+San Marino,SMR,33642
+Sao Tome and Principe,STP,231856
+Saudi Arabia,SAU,36947025
+Senegal,SEN,17763163
+Serbia,SRB,6618026
+Seychelles,SYC,119773
+Sierra Leone,SLE,8791092
+Singapore,SGP,5917648
+Sint Maarten (Dutch part),SXM,41163
+Slovak Republic,SVK,5426740
+Slovenia,SVN,2120937
+Small states,SST,20086203
+Solomon Islands,SLB,740424
+Somalia,SOM,18143378
+South Africa,ZAF,60414495
+South Asia,SAS,1938549529
+South Asia (IDA & IBRD),TSA,1938549529
+South Sudan,SSD,11088796
+Spain,ESP,48373336
+Sri Lanka,LKA,22037000
+St. Kitts and Nevis,KNA,47755
+St. Lucia,LCA,180251
+St. Martin (French part),MAF,32077
+St. Vincent and the Grenadines,VCT,103698
+Sub-Saharan Africa (IDA & IBRD countries),TSS,1241897817
+Sub-Saharan Africa (excluding high income),SSA,1241778044
+Sudan,SDN,48109006
+Suriname,SUR,623236
+Sweden,SWE,10536632
+Switzerland,CHE,8849852
+Syrian Arab Republic,SYR,23227014
+Tajikistan,TJK,10143543
+Tanzania,TZA,67438106
+Thailand,THA,71801279
+Timor-Leste,TLS,1360596
+Togo,TGO,9053799
+Tonga,TON,107773
+Trinidad and Tobago,TTO,1534937
+Tunisia,TUN,12458223
+Turkiye,TUR,85326000
+Turkmenistan,TKM,6516100
+Turks and Caicos Islands,TCA,46062
+Tuvalu,TUV,11396
+Uganda,UGA,48582334
+Ukraine,UKR,37000000
+United Arab Emirates,ARE,9516871
+United Kingdom,GBR,68350000
+United States,USA,334914895
+Uruguay,URY,3423108
+Uzbekistan,UZB,36412350
+Vanuatu,VUT,334506
+"Venezuela, RB",VEN,28838499
+Virgin Islands (U.S.),VIR,104917
+West Bank and Gaza,PSE,5165775
+World,WLD,8024997028
+"Yemen, Rep.",YEM,34449825
+Zambia,ZMB,20569737
+Zimbabwe,ZWE,16665409
