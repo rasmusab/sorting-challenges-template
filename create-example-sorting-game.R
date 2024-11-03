@@ -1,4 +1,3 @@
-# Load necessary libraries
 library(jsonlite)
 library(tidyverse)
 library(glue)
@@ -40,7 +39,7 @@ candidate_cards <- tribble(
 # Convert the candidate_cards dataframe to JSON format for insertion into the template
 CandidateCardsArray <- toJSON(candidate_cards, auto_unbox = TRUE)
 
-# Finally, use the defined variabes to fill int he template.
+# Finally, use the defined variables to fill in the template.
 sorting_challenge_template <- read_file("template-sorting-challenge.html" ) 
 completed_sorting_challenge <- glue(sorting_challenge_template, .open = "{{", .close = "}}")
 write_file(completed_sorting_challenge, "example-sorting-game.html")
