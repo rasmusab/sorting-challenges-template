@@ -5,7 +5,7 @@ library(readxl)
 
 GameTitle <- "Climate Impact Sorting Challenge"
 AuthorName <- "Rasmus Bååth"
-GameDescription <- "Place the cards in order of increasing climate impact. How many can you get right before you make a misstake?"
+GameDescription <- "Place the cards in order of increasing climate impact. How many can you get right before you make a mistake?"
 Instructions <- GameDescription
 LeftGuidanceText <- "←🌱Less impact"
 RightGuidanceText <- "More impact🔥→"
